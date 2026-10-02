@@ -1,0 +1,9 @@
+[malware]
+example.com
+
+[gambling]
+example.net
+
+[phishing]
+example.org
+

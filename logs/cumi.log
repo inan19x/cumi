@@ -1,0 +1,1 @@
+20:13:28 ALERT cumi: category=malware URL=www.malware.com:443 client=192.168.1.50 user=john method=CONNECT
